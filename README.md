@@ -1,0 +1,4 @@
+steewsGallery
+=============
+
+jQuery gallery plugin
